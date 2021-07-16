@@ -1,0 +1,24 @@
+h1{
+    color:#4ae7b0;
+     font-style: italic; 
+     border:solid;
+}
+
+.header{
+    background-color:#fe00a7;
+    display: flex;
+    justify-content: space-between;
+    border:solid;
+}
+
+
+.footer{
+   display: flex; 
+   justify-content: flex-end;
+   border:solid;
+}
+p,h2{
+text-align: center;
+border:solid;
+}
+
